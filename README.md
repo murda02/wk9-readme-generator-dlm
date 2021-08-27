@@ -1,6 +1,6 @@
-# Homework week 9 | README generator
+# README generator
 
-# Table of Contents
+## Table of Contents
 
 * [Description](#description)
 * [Installation](#installation)
