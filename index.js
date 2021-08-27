@@ -112,7 +112,7 @@ ${license}
 ## Questions
 Contact me at:
 * [GitHub](https://github.com/${github})
-* [mailto](${email})`;
+* [Email](mailto:${email})`;
 
     fs.writeFile(filename, readMeContent, (error) => { /* handle error */ });
   })

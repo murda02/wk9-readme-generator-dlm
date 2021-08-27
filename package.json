@@ -1,0 +1,24 @@
+{
+  "name": "wk9-readme-generator-dlm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murda02/wk9-readme-generator-dlm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murda02/wk9-readme-generator-dlm/issues"
+  },
+  "homepage": "https://github.com/murda02/wk9-readme-generator-dlm#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "statuses": "^2.0.1"
+  }
+}
