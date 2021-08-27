@@ -9,6 +9,7 @@
 * [Tests](#tests)
 * [License](#license)
 * [Questions](#questions)
+* [Links](links)
 
 ## Description
 
@@ -43,6 +44,7 @@ Contact me at:
 * [GitHub](https://github.com/murda02)
 * [Email](mailto:davelmurphy@zoho.com)
 
-## Link
+## Links
 
-[README generator link](https://github.com/murda02/wk9-readme-generator-dlm)
+* [README generator link](https://github.com/murda02/wk9-readme-generator-dlm)
+* [Instructional video link](https://drive.google.com/file/d/1lYY8Lqqhcsgla9Q5K2XQ5oCZFSB-ZZwK/view?usp=sharing)
