@@ -20,19 +20,23 @@ git clone git@github.com:murda02/wk9-readme-generator-dlm.git
 ```
 ## Usage
 
-use wisely
+From the directory the repo is installed execute the below command:
+```
+node index.js
+```
+Then answer the prompt questions.
 
 ## Contributing
 
-be nice
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Tests
 
-test often
+There are no tests currently.
 
 ## License
 
-MIT
+[MIT](https://github.com/murda02/wk9-readme-generator-dlm/blob/main/LICENSE)
 
 ## Questions
 Contact me at:
